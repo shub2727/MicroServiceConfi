@@ -13,4 +13,7 @@ public class ApiResponce{
     private String message;
     private boolean success;
     private HttpStatus status;
+
+
+    private String neww;
 }
