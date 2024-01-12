@@ -14,6 +14,10 @@ public class ApiResponce{
     private boolean success;
     private HttpStatus status;
 
+<<<<<<< Updated upstream
 
     private String neww;
+=======
+    private String  sda;
+>>>>>>> Stashed changes
 }
